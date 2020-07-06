@@ -1,0 +1,19 @@
+{
+  "name": "webgl-wavefront-obj-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^13.1.1",
+    "http-server": "^0.9.0",
+    "load-wavefront-obj": "^0.6.2",
+    "raf-loop": "^1.1.3",
+    "wavefront-obj-parser": "^0.3.0"
+  }
+}
